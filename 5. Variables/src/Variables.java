@@ -6,7 +6,7 @@ public class Variables {
             double c;
             long d;
             short e;
-            
+           // int,float,doule,long,short those are  variables in java or others lanaguge 
 
     }
 }
