@@ -29,9 +29,10 @@ public class Main {
 
         long minLongValue=Long.MIN_VALUE;
         long maxLongValue=Long.MAX_VALUE;
+        
 
         System.out.println("Long minValue"+minLongValue);
         System.out.println("maxLongValue = " + maxLongValue);
- 
+
     }
 }
