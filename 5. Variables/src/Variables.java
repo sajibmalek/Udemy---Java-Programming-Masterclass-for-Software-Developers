@@ -6,7 +6,7 @@ public class Variables {
             double c;
             long d;
             short e;
-            
+
 
     }
 }
