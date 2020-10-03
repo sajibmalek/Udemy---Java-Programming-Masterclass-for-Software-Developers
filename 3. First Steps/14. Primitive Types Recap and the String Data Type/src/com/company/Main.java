@@ -21,8 +21,8 @@ public class Main {
 
         String lastString="10.10";
                 int myInt=10;
-                lastString=lastString+myInt;
-        System.out.println("lastString = " + lastString);
+          lastString=lastString+myInt;
+        System.out.println("lastStringValue = " + lastString);
         
 
 
