@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         int topscore=100;
         int lowScore=33;
-        if (topscore==100 || lowScore!=topscore){
+        if (topscore<=100 || lowScore!=topscore){
             System.out.println("Result");
         }
     }
